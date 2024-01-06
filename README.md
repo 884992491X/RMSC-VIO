@@ -22,12 +22,11 @@ Trajectory Error (ATE) compared to state-of-the-art multi-
 camera VIO methods.
 
 Click for the video demo.
-
 [![Video Demo](./img/封面.png)](https://youtu.be/fVwBnhHjAYs)
 
 ## 1. Datasets
 
-<img src="./img/Sample1.png" width="200" height="260" /> <img src="./img/Sample2.png" width="200" height="260"/><img src="./img/Sample3.png" width="200" height="260"/> <img src="./img/Sample4.png" width="200" height="260"/><img src="./img/Sample5.png" width="200" height="260"/> <img src="./img/Sample6.png" width="200" height="260"/><img src="./img/Sample7.png" width="200" height="260"/> <img src="./img/Sample8.png" width="200" height="260"/>
+<img src="./img/Sample6.png" width="200" height="250" /> <img src="./img/Sample7.png" width="200" height="250"/><img src="./img/Sample8.png" width="200" height="250"/> <img src="./img/Sample1.png" width="200" height="250"/><img src="./img/Sample2.png" width="200" height="250"/> <img src="./img/Sample3.png" width="200" height="250"/><img src="./img/Sample5.png" width="200" height="250"/> <img src="./img/Sample4.png" width="200" height="250"/>
 
 We collected seven sequences, comprising three indoor and four outdoor scenes. These sequences included challenging visual scenarios. such as featureless environments, frequent occlusions, abrupt lighting changes, overexposure, dynamic objects, and large-scale scenes.
 For indoor sequences, we utilized a motion capture system to acquire ground truth poses with millimeter-level accuracy. For outdoor sequences, Real-Time Kinematic (RTK) technology was employed to obtain ground truth trajectories with centimeter-level precision.
