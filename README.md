@@ -8,5 +8,5 @@ Click for the video demo.
 
 
 
-[![data](./img/out.jpg)(./img/out.jpg)(./img/out.jpg)(./img/out.jpg)]
+![data](./img/out.jpg) ![data](./img/out.jpg) ![data](./img/out.jpg)
 The datasets  will be released as our work is accepted.
