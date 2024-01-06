@@ -26,7 +26,7 @@ Click for the video demo.
 
 ## 1. Datasets
 
-<img src="./img/Sample6.png" width="220" height="280" /> <img src="./img/Sample7.png" width="220" height="280"/><img src="./img/Sample8.png" width="220" height="280"/> <img src="./img/Sample1.png" width="220" height="280"/><img src="./img/Sample2.png" width="220" height="280"/> <img src="./img/Sample3.png" width="220" height="280"/><img src="./img/Sample5.png" width="220" height="280"/> <img src="./img/Sample4.png" width="220" height="280"/>
+<img src="./img/Sample6.png" width="210" height="20" /> <img src="./img/Sample7.png" width="210" height="270"/><img src="./img/Sample8.png" width="210" height="270"/> <img src="./img/Sample1.png" width="210" height="270"/><img src="./img/Sample2.png" width="210" height="270"/> <img src="./img/Sample3.png" width="210" height="270"/><img src="./img/Sample5.png" width="210" height="270"/> <img src="./img/Sample4.png" width="210" height="270"/>
 
 We collected seven sequences, comprising three indoor and four outdoor scenes. These sequences included challenging visual scenarios. such as featureless environments, frequent occlusions, abrupt lighting changes, overexposure, dynamic objects, and large-scale scenes.
 For indoor sequences, we utilized a motion capture system to acquire ground truth poses with millimeter-level accuracy. For outdoor sequences, Real-Time Kinematic (RTK) technology was employed to obtain ground truth trajectories with centimeter-level precision.
