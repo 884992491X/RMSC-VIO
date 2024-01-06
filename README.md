@@ -9,5 +9,5 @@ Click for the video demo.
 
 
 ![data](./img/out.jpg) ![data](./img/out.jpg) ![data](./img/out.jpg)
-<img src="./img/out.jpg" width="200" height="200" /> <img src="./img/out.jpg" width="200" height="200" />
+<img src="./img/out.jpg" width="200" /> <img src="./img/out.jpg" width="200" />
 The datasets  will be released as our work is accepted.
