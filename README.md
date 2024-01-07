@@ -41,6 +41,7 @@ Stereoscopic2: /camera2/infra1/image_rect_raw 15Hz, /camera2/infra2/image_rect_r
 imu: /mavros/imu/data_raw 200Hz
 
 ground truth: /odometry 100Hz
+
 、、、
 ### 1.2 [Outdoor_topic]
 、、、
@@ -52,6 +53,7 @@ Stereoscopic2: /camera2/infra1/image_rect_raw 15Hz, /camera2/infra2/image_rect_r
 imu: /mavros/imu/data_raw 200Hz
 
 ground truth: /mavros/global_position/raw/fix 10Hz
+
 、、、
 
 [RMSC-VIO Datasets](https://pan.baidu.com/s/1vOmaT4yJX6tf_EHAj20-Dw?pwd=RMSC).
