@@ -32,7 +32,6 @@ We collected seven sequences, comprising three indoor and four outdoor scenes. T
 For indoor sequences, we utilized a motion capture system to acquire ground truth poses with millimeter-level accuracy. For outdoor sequences, Real-Time Kinematic (RTK) technology was employed to obtain ground truth trajectories with centimeter-level precision.
 
 ### 1.1 [Indoor_topic]
-、、、
 
     Stereoscopic1: /camera1/infra1/image_rect_raw 15Hz, /camera1/infra2/image_rect_raw 15Hz
 
@@ -41,8 +40,8 @@ For indoor sequences, we utilized a motion capture system to acquire ground trut
     imu: /mavros/imu/data_raw 200Hz
 
     ground truth: /odometry 100Hz
+    
 ### 1.2 [Outdoor_topic]
-、、、
 
     Stereoscopic1: /camera1/infra1/image_rect_raw 15Hz, /camera1/infra2/image_rect_raw 15Hz
 
