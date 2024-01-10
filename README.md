@@ -2,27 +2,10 @@
 
 ### RMSC-VIO: Robust Multi-Stereoscopic Visual-Inertial Odometry for Local Visually Challenging Scenarios
 
-We present a Multi-Stereoscopic Visual-Inertial
-Odometry (VIO) system capable of integrating an arbitrary
-number of stereoscopic views. Firstly, we propose an innovative
-initialization scheme and tightly coupled bundle adjustment
-method that fully leverage high-quality image feature infor-
-mation from different stereo cameras, enhancing the system’s
-robustness and effectiveness in local visual challenge scenarios.
-Simultaneously, to alleviate the computational burden of multi-
-camera systems, we propose an adaptive feature selection
-method that iteratively updates and ﬁlters out high-quality
-image features based on the state information of visual features,
-reducing unnecessary redundancy consumption. Finally, we
-validate the effectiveness and robustness of our proposed
-method through a series of datasets, encompassing various
-visually challenging scenarios and practical ﬂight experiments.
-Our approach achieves up to a 90% reduction in Absolute
-Trajectory Error (ATE) compared to state-of-the-art multi-
-camera VIO methods.
+We present a Multi-Stereoscopic Visual-Inertial Odometry (VIO) system capable of integrating an arbitrary number of stereo cameras, exhibiting excellent robustness in the face of visually challenging scenarios. During system initialization, we introduce multi-view keyframes for simultaneous processing of multiple image inputs and propose an adaptive feature selection method to alleviate the computational burden of multi-camera systems This method iteratively updates the state information of visual features, filtering out high-quality image feature points and effectively reducing unnecessary redundancy consumption. In the backend phase, we propose an adaptive tightly coupled optimization method, assigning corresponding optimization weights based on the quality of different image feature points, effectively enhancing localization precision. We validate the effectiveness and robustness of our system through a series of datasets, encompassing various visually challenging scenarios and practical flight experiments. Our approach achieves up to a 90\% reduction in Absolute Trajectory Error (ATE) compared to state-of-the-art multi-camera VIO methods.
 
 Click for the video demo.
-[![Video Demo](./img/封面.png)](https://youtu.be/BJngqOPl55o)
+[![Video Demo](./img/封面.png)](https://youtu.be/_CWLo0V31og)
 
 ## 1. Datasets
 
