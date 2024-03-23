@@ -4,6 +4,22 @@
 
 We present a Multi-Stereoscopic Visual-Inertial Odometry (VIO) system capable of integrating an arbitrary number of stereo cameras, exhibiting excellent robustness in the face of visually challenging scenarios. During system initialization, we introduce multi-view keyframes for simultaneous processing of multiple image inputs and propose an adaptive feature selection method to alleviate the computational burden of multi-camera systems This method iteratively updates the state information of visual features, filtering out high-quality image feature points and effectively reducing unnecessary redundancy consumption. In the backend phase, we propose an adaptive tightly coupled optimization method, assigning corresponding optimization weights based on the quality of different image feature points, effectively enhancing localization precision. We validate the effectiveness and robustness of our system through a series of datasets, encompassing various visually challenging scenarios and practical flight experiments. Our approach achieves up to a 90\% reduction in Absolute Trajectory Error (ATE) compared to state-of-the-art multi-camera VIO methods.
 
+**Related Papers**
+
+* **T. Zhang, J. Xu, H. Shen, R. Yang and T. Yang, "RMSC-VIO: Robust Multi-Stereoscopic Visual-Inertial Odometry for Local Visually Challenging Scenarios," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3377008.**[pdf](https://ieeexplore.ieee.org/document/10472018)
+
+、、、
+@ARTICLE{10472018,
+  author={Zhang, Tong and Xu, Jianyu and Shen, Hao and Yang, Rui and Yang, Tao},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={RMSC-VIO: Robust Multi-Stereoscopic Visual-Inertial Odometry for Local Visually Challenging Scenarios}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/LRA.2024.3377008}}
+、、、
+
 Click for the video demo.
 [![Video Demo](./img/封面.png)](https://youtu.be/_CWLo0V31og)
 
