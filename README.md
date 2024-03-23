@@ -8,17 +8,15 @@ We present a Multi-Stereoscopic Visual-Inertial Odometry (VIO) system capable of
 
 * **T. Zhang, J. Xu, H. Shen, R. Yang and T. Yang, "RMSC-VIO: Robust Multi-Stereoscopic Visual-Inertial Odometry for Local Visually Challenging Scenarios," in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3377008.**[pdf](https://ieeexplore.ieee.org/document/10472018)
 
-、、、
-@ARTICLE{10472018,
-  author={Zhang, Tong and Xu, Jianyu and Shen, Hao and Yang, Rui and Yang, Tao},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={RMSC-VIO: Robust Multi-Stereoscopic Visual-Inertial Odometry for Local Visually Challenging Scenarios}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-8},
-  doi={10.1109/LRA.2024.3377008}}
-、、、
+      @ARTICLE{10472018,
+        author={Zhang, Tong and Xu, Jianyu and Shen, Hao and Yang, Rui and Yang, Tao},
+        journal={IEEE Robotics and Automation Letters}, 
+        title={RMSC-VIO: Robust Multi-Stereoscopic Visual-Inertial Odometry for Local Visually Challenging Scenarios}, 
+        year={2024},
+        volume={},
+        number={},
+        pages={1-8},
+        doi={10.1109/LRA.2024.3377008}}
 
 Click for the video demo.
 [![Video Demo](./img/封面.png)](https://youtu.be/_CWLo0V31og)
