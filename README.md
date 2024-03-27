@@ -13,9 +13,9 @@ We present a Multi-Stereoscopic Visual-Inertial Odometry (VIO) system capable of
         journal={IEEE Robotics and Automation Letters}, 
         title={RMSC-VIO: Robust Multi-Stereoscopic Visual-Inertial Odometry for Local Visually Challenging Scenarios}, 
         year={2024},
-        volume={},
-        number={},
-        pages={1-8},
+        volume={9},
+        number={5},
+        pages={4130-4137},
         doi={10.1109/LRA.2024.3377008}}
 
 Click for the video demo.
